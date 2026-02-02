@@ -101,5 +101,5 @@ Las imágenes se guardan localmente (no en la nube)
 Proyecto enfocado en funcionalidad y estructura clara
 
 👤 Autor
-Elio Flavio Martinez
+Elio Flavio Martinez.
 Proyecto académico / demo de aplicación mobile con React Native.
